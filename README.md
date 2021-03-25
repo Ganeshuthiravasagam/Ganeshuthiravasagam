@@ -1,3 +1,5 @@
+![image](https://github.com/Ganeshuthiravasagam/Ganeshuthiravasagam/blob/main/Poster.jpeg)
+
 ### Here is what I'm working on 👋
 
 Here are some ideas to get you started:
