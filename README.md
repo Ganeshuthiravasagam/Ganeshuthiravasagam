@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...Web development
 - 🤔 I’m looking for help with ...Web develpment
 - 💬 Ask me about ...Python
-- 📫 How to reach me: ...[LinkedIn](https://www.linkedin.com/in/ganeshuthiravasagam/)
+- 📫 How to reach me: ...[LinkedIn, target="_blank"](https://www.linkedin.com/in/ganeshuthiravasagam/)
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...Half guy full person
 -->
