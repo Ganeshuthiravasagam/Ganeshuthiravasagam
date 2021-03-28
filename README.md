@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...Python
 - 📫 How to reach me: ...[LinkedIn](https://www.linkedin.com/in/ganeshuthiravasagam/)
 - 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...Half guy full person
+- ⚡ Fun fact: ...Glass half full person
 -->
